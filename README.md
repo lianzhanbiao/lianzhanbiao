@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @lianzhanbiao
-- 👀 Just do it！
+- 👋 Just do it！
 
 <!---
 lianzhanbiao/lianzhanbiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
